@@ -1,11 +1,6 @@
 <?php 
 
-
 $name = "Jasmien";
-$string1 = "hello ";
-$string2 = "world";
-$x = 10;
-$y = 7;
 
 ?>
 
@@ -19,13 +14,7 @@ $y = 7;
 </head>
 <body>
 
-   <h1> Welcome <?php echo $name ?> !</h1>  
-   <?php echo $string1 , $string2?> 
-   <?php echo $x + $y?>
-   <?php echo $x - $y?>
-   <?php echo $x * $y?>
-   <?php echo $x / $y?>
-   <?php echo $x % $y?>
+   <h1> Welcome <?php echo  $name ?> !</h1>  
 
    
 
